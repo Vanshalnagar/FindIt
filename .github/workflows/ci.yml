@@ -2,7 +2,7 @@ name: FindIt CI/CD
 
 on:
   push:
-    branches: [main, develop]
+    branches: [main, develop, vanshal]
     tags: ['v*']
   pull_request:
 
