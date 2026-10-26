@@ -41,7 +41,7 @@ findit-project/
 
 ## Windows PowerShell + VS Code setup
 Replace paths with where your zip file is.
-
+ 
 ```powershell
 cd $HOME\Downloads
 Expand-Archive -Path .\findit-project.zip -DestinationPath .\
